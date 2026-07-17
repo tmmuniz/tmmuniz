@@ -1,7 +1,6 @@
 # Taynan Mina Muniz
 
 ### Information Security Specialist (MSc) | Cloud Security Engineer & DevSecOps
-**Barueri-SP, Brazil • tmmuniz92@gmail.com • +55 62 98544-3510**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tmmuniz)
 [![GitHub Portfolio](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/tmmuniz)
